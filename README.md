@@ -31,6 +31,7 @@
 | [风险升级](guide/risk-escalation.md) | 风险被忽略、问题无人决策 | 风险分级、升级路径、决策超时处理 |
 | [职场权益](guide/workplace-rights.md) | 不当要求、争议处理、寻求帮助 | 资料保护、正式渠道、求助准备 |
 | [管理压力与职场 PUA](guide/managerial-pressure.md) | 责任转移、功劳归属失衡、人格贬低 | 事实澄清、沟通话术、合规留痕与求助路径 |
+| [口头安排与事后改口](guide/oral-instructions-and-blame.md) | 口头指令、事后否认、执行与决策权不匹配 | 任务确认模板、变更记录、责任边界与升级策略 |
 
 ## 快速开始：五分钟检查一项重要任务
 
